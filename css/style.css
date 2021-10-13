@@ -1,0 +1,183 @@
+*{
+    margin: 0;
+    padding: 0 ;
+    text-decoration: none !important;
+    list-style: none !important;
+}
+
+
+header{
+ margin: 0;
+ padding: 0;
+ background: url(../img/Livello\ 1.png) no-repeat center center / cover;
+ height: 1300px;
+}
+
+
+
+
+.me-auto {
+    margin-right: 0 !important;
+    margin-left: auto !important;
+}
+
+
+.nav-link, .navbar-light .navbar-nav .nav-link.active {
+    color: #ffffff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+
+header .header-text{
+    color: #ffffff;
+    margin-top: 237px;
+    text-align: center;
+   
+}
+
+header .header-text h1{
+    text-align: center;
+    
+}
+
+section{
+    background: #f5f6f7;
+
+}
+section ul{
+    display: flex;
+    padding: 30px;
+}
+
+section .botton{
+    background: #aa9b77;
+    font-size: 15px;
+    padding: 15px;
+    border-radius: 3px;
+    color:#ffffff;
+}
+
+
+section a{
+    color:black;
+    padding: 40px;
+    font-size: 20px;
+}
+
+main .box .bl{
+    width: 100%;
+    height: 5px;
+    background: #cccccc;
+    margin-top: 97px;
+}
+
+
+main .box .row .col-1 h2{
+    padding-top: 88px;
+    font-size: 20px;
+}
+main .box-img  a{
+   padding-top: 40px; 
+}
+
+main .box3{
+    margin-top: 103px;
+    border: 6px solid transparent;
+    padding: 30px;
+    background: #f5f6f7;
+    
+}
+main .box3 h1{
+    color: #aa9b77;
+}
+
+main .box3:hover{
+    border: 6px solid #aa9b77;
+    transition: 0.5s;
+}
+main .box3 select{
+    display: flex;
+    margin-bottom: 20px;
+    border: none;
+    flex-direction: column;
+}
+
+main .box3 h1{
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+main img{  
+    width: 100%;
+    height: 228px;
+    object-fit: contain;
+}
+
+main .box2 .bkl{
+    width: 100%;
+    height: 5px;
+    background: #e0dbdb;
+}
+main .box2 .bkl h2{
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+footer{
+    background: #aa9b77;
+    text-align: center;
+    height: 400px;
+    padding-top: 45px;
+  margin-top: 127px;
+}
+
+
+
+footer .gas .row .col-lg-5 p{
+    padding-top: 85px;
+    justify-content: center;
+    text-align: center;
+    
+}
+ 
+footer .gas .row .col-lg-5 .h1{
+    padding-top: 20px;
+    color: #aa9b77;
+}
+
+footer .block2{
+    background: #535253;
+}
+
+.block{
+    background: #535253;
+}
+
+
+.block h1{
+    font-size: 30px;
+}
+
+
+.box2{
+    background: #424242;
+}
+
+
+    
+
+
+  
+
+
+
+
+
+
+
+
+
+
